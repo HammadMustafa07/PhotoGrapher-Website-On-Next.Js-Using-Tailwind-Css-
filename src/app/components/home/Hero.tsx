@@ -9,7 +9,7 @@ export default function Navbar() {
       Do you want to capture your <br /> <span className="text-[rgb(13,13,92)]">beautiful moments</span> forever
     </p>
     <p className="text-black text-[35px] relative -top-[400px]">
-      We are here to turn your <br /> pictures.<span className="text-[rgb(13,13,92)]">dreams</span>
+      We are here to turn your <br /> Visions Into<span className="text-[rgb(13,13,92)]"> Memories</span>
     </p>
   </div>
   
